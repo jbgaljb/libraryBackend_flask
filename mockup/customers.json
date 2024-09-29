@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Customer 1",
+        "city": "City 1",
+        "age": 23
+    },
+    {
+        "id": 2,
+        "name": "Customer 2",
+        "city": "City 2",
+        "age": 26
+    },
+    {
+        "id": 3,
+        "name": "Customer 3",
+        "city": "City 3",
+        "age": 29
+    },
+    {
+        "id": 4,
+        "name": "Customer 4",
+        "city": "City 4",
+        "age": 32
+    },
+    {
+        "id": 5,
+        "name": "Customer 5",
+        "city": "City 5",
+        "age": 35
+    },
+    {
+        "id": 6,
+        "name": "Customer 6",
+        "city": "City 6",
+        "age": 38
+    },
+    {
+        "id": 7,
+        "name": "Customer 7",
+        "city": "City 7",
+        "age": 41
+    },
+    {
+        "id": 8,
+        "name": "Customer 8",
+        "city": "City 8",
+        "age": 44
+    }
+]

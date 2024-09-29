@@ -1,0 +1,82 @@
+[
+    {
+        "ID": 1,
+        "name": "Book Title 1",
+        "author": "Author 1",
+        "year_published": 1921,
+        "type": 2,
+        "is_available": false
+    },
+    {
+        "ID": 2,
+        "name": "Book Title 2",
+        "author": "Author 2",
+        "year_published": 1922,
+        "type": 3,
+        "is_available": true
+    },
+    {
+        "ID": 3,
+        "name": "Book Title 3",
+        "author": "Author 3",
+        "year_published": 1923,
+        "type": 1,
+        "is_available": false
+    },
+    {
+        "ID": 4,
+        "name": "Book Title 4",
+        "author": "Author 4",
+        "year_published": 1924,
+        "type": 2,
+        "is_available": true
+    },
+    {
+        "ID": 5,
+        "name": "Book Title 5",
+        "author": "Author 5",
+        "year_published": 1925,
+        "type": 3,
+        "is_available": false
+    },
+    {
+        "ID": 6,
+        "name": "Book Title 6",
+        "author": "Author 6",
+        "year_published": 1926,
+        "type": 1,
+        "is_available": true
+    },
+    {
+        "ID": 7,
+        "name": "Book Title 7",
+        "author": "Author 7",
+        "year_published": 1927,
+        "type": 2,
+        "is_available": false
+    },
+    {
+        "ID": 8,
+        "name": "Book Title 8",
+        "author": "Author 8",
+        "year_published": 1928,
+        "type": 3,
+        "is_available": true
+    },
+    {
+        "ID": 9,
+        "name": "Book Title 9",
+        "author": "Author 9",
+        "year_published": 1929,
+        "type": 1,
+        "is_available": false
+    },
+    {
+        "ID": 10,
+        "name": "Book Title 10",
+        "author": "Author 10",
+        "year_published": 1930,
+        "type": 2,
+        "is_available": true
+    }
+]
