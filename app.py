@@ -3,10 +3,10 @@
 #------------------------------------------------
 from datetime import datetime
 import json
+from enum import Enum
 from flask import Flask, jsonify, request
 from flask_sqlalchemy import SQLAlchemy
 from flask_cors import CORS
-from enum import Enum
 # from mockup.initialize import clear_all_models, update_all_tables
 
 #------------------------------------------------
